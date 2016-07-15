@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    font-family:  Arial, Verdana, sans-serif;
+    color: #4d4d33;
+    text-shadow: 2px 3px 5px #ffffff;
+    width: 250px;
+    margin: 0px auto 0 auto;
+}
+html { 
+  background: url(images/background.jpg) no-repeat fixed;; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.image{
+    width: 150px;
+    
+    margin: -10px auto 0 auto;
+    position: relative;
+
+}
+.content{
+    border: 5px solid black;
+    border-color: black;
+    margin: 0 0 0 23%;
+
+    
+}
+h2{
+    text-align: center;
+    background-color: #ffffff;
+    width: 100%;
+   
+    font-size: 25px !important;
+    padding: 5px;
+}
+#img02{
+    width: 250px;
+    height: 200px;
+    float: right;
+    padding: 5px;
+    
+}
+#img03{
+    width: 300px;
+    height: 150px;
+    float: right;
+}
+.section01{
+    margin: 0 32% 0 0;
+    padding: 10px;
+}
+iframe{
+    float: right;
+    
+    height: 100px;
+}
+p,h3,h2{
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 18px;
+}
+.subcontent01{
+    margin: 8px 2px 8px 2px;
+}
+h3{
+    font-size: 20px !important;
+}
